@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\studio\CoolTravel\app\libs\AMap_3DMap_V3.3.1_20160419.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="b4f86608ad453f27dfbc7f8a51a2e13f4fc9f2c2">
+        <dex dex="E:\studio\CoolTravel\app\build\intermediates\pre-dexed\debug\AMap_3DMap_V3.3.1_20160419_14621ebb130a6be759773e5358bcba60b8465a95.jar" />
+    </item>
+    <item
+        jar="E:\studio\CoolTravel\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\studio\CoolTravel\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_56c7a4262556270ea04fb1efb527dcc328156a47.jar" />
+    </item>
+    <item
+        jar="E:\studio\CoolTravel\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="5f72e843a004078da4fcc70e079fcb054de7eec2">
+        <dex dex="E:\studio\CoolTravel\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7e6b62c43ec82c1d0b3dded9182e355e36fc0efe.jar" />
+    </item>
+    <item
+        jar="E:\studio\CoolTravel\app\libs\AMap_Search_V3.2.1_20160308.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="f2ca076e4192ab39f1fae2e265b15e6005a5615d">
+        <dex dex="E:\studio\CoolTravel\app\build\intermediates\pre-dexed\debug\AMap_Search_V3.2.1_20160308_569aaeb6e6d3c133922bcfba7e4fd8116f31bcf0.jar" />
+    </item>
+    <item
+        jar="E:\studio\CoolTravel\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="88b324fb591d6a37eb37552684e9d0dbf3cb3abb">
+        <dex dex="E:\studio\CoolTravel\app\build\intermediates\pre-dexed\debug\instant-run_718607062229d3816f268094fb87d51d2535aed2.jar" />
+    </item>
+    <item
+        jar="E:\studio\CoolTravel\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\studio\CoolTravel\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_e2e0c23446c55cd0a551fb1826455e11c4a8dddf.jar" />
+    </item>
+    <item
+        jar="E:\studio\CoolTravel\app\libs\Volley.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="E:\studio\CoolTravel\app\build\intermediates\pre-dexed\debug\Volley_5f7dd911cf817e0cc36fda90bd4b15e87c443a9f.jar" />
+    </item>
+    <item
+        jar="E:\studio\CoolTravel\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\studio\CoolTravel\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_3789f5166ac2a20dd8d17f0afe3fad2664771481.jar" />
+    </item>
+    <item
+        jar="E:\studio\CoolTravel\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\studio\CoolTravel\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_32ae7d70df324fdb6a10dae9892eed24bfc397b1.jar" />
+    </item>
+    <item
+        jar="E:\studio\CoolTravel\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\studio\CoolTravel\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_668d8057cb6beaadcb4b8300860ad74449c3c56d.jar" />
+    </item>
+    <item
+        jar="D:\Androidtools\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\studio\CoolTravel\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_075a8eb543bcda7ce2524abff8a01bb41df28b5e.jar" />
+    </item>
+    <item
+        jar="E:\studio\CoolTravel\app\libs\AMap_Location_V2.4.1_20160414.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="c2a48661c11bfafb2dea576904958420c2ad9e06">
+        <dex dex="E:\studio\CoolTravel\app\build\intermediates\pre-dexed\debug\AMap_Location_V2.4.1_20160414_5425b0057033cc1433544ccfa0bd642931c0af7d.jar" />
+    </item>
+
+</items>
